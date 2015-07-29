@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-webserver",
+  "version": "1.0.0",
+  "description": "A simple node.js based web server",
+  "main": "simple-webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijeet Pathak",
+  "license": "ISC"
+}
